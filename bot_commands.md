@@ -1,3 +1,3 @@
-| Command       | Description |
+| Command | Description |
 | ------------- | ------------- |
-| `.c <appid>`  | Returns curation for `appid`.  |
+| `.c <appid>` | Returns curation for `appid`. `Store Name` also accepted in place of `appid`. |
