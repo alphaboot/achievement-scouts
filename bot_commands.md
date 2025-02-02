@@ -5,5 +5,7 @@
 | `.c <app>` | Returns curation for `app`. |
 | `.newalias <app> >> <alias>` | Adds `alias` to `app`. |
 | `.remalias <alias>` | Removes `alias` stored on bot. |
-| `.dc <app> >> [curator_id]` | Removes curation from curators, hides it on the bot database, and archives it on Discord.<br>`curator_id` is optional unless the same app is curated on multiple curators. |
+| `.dc <app> [>> <curator_id>]` | Removes curation from curators, hides it on the bot database, and archives it on Discord.<br>`curator_id` is optional unless the same app is curated on multiple curators. |
+| `.author <curator_id> <app> >> <new_author>` | Changes the author of a curation to `new_author`. `new_author` is a SteamID64 or custom url. |
+| `.uc <app> [>> <curator_id>]` | Updates a curation.<br>`curator_id` is optional unless the same app is curated on multiple curators. |
 
