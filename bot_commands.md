@@ -9,4 +9,4 @@
 | `.author <curator_id> <app> >> <new_author>` | Changes the author of a curation to `new_author`. `new_author` is a SteamID64 or custom url. |
 | `.uc <app> [>> <curator_id>]` | Updates a curation.<br>`curator_id` is optional unless the same app is curated on multiple curators. |
 | `.link <steam_id>` | Link your Steam account to your Discord account on the bot. `steam_id` is a SteamID64 or custom url. |
-| `.linked [<user>]` | Shows details on accounts linked to `<user>`. `<user>` is a Discord username or Discord user ID. |
+| `.linked [<user>]` | Shows details on accounts linked to `<user>`. `<user>` is a Discord username or Discord user ID. Omitting `<user>` displays details about yourself. |
