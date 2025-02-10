@@ -12,4 +12,4 @@
 | `.link <steam_id>` | Links a Steam account to your Discord username on the bot.<br>`steam_id` can be a SteamID64 or custom url. |
 | `.linked [<discord_id>]` | Returns accounts linked to `discord_id`.<br>`discord_id` can be a Discord username or ID. Omitting `discord_id` displays details about yourself. |
 | `.me <app>` | Returns your achievement progress for `app`.<br>Query multiple `apps` by separating them with semicolon. |
-| `.ach <user> >> <app> ` | Returns `user's` achievement progress for `<app>`.<br>`<user>` can also be a Discord username or ID if linked. Query multiple `apps` by separating them with semicolon. |
+| `.ach <user> >> <app> ` | Returns `user's` achievement progress for `app`.<br>`user` can also be a Discord username or ID if linked. Query multiple `apps` by separating them with semicolon. |
