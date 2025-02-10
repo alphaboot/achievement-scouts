@@ -1,4 +1,4 @@
-`app` can be an app name, alias, or an appid.
+`app` can be an app name, alias, or an appid.  
 `user` can be a SteamID64 or custom url.
 
 | Command | Description |
